@@ -1,0 +1,3 @@
+[submodule "support/async.js"]
+	path = support/async.js
+	url = https://github.com/fjakobs/async.js.git
